@@ -1,0 +1,6 @@
+name: ProfileService
+version: ${version}
+main: nl.profileservice.ProfilePlugin
+api-version: '26.3'
+libraries:
+  - org.mongodb:mongodb-driver-sync:5.13.0
